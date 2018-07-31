@@ -1,7 +1,7 @@
 # dice-detection
 Identify the number of black and white dice and their value
 
-##Steps: 
+## Steps: 
   1. Convert image to Gray
   2. Apply Gaussian blurin order to soften image
   3. Use threshold to reduce the information of image 
